@@ -1,0 +1,7 @@
+{
+  "name": "Beer League Planner",
+  "description": "TODO",
+  "repository": "https://github.com/danielrivera/beerleague",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static", "hockey"]
+}
